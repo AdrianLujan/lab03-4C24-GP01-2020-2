@@ -14,6 +14,7 @@ public class App
         System.out.println("Cambios de Ivan O.");
         System.out.println( "Segundo Cambio de Adrian L." );
         System.out.println("Segundo Cambio de Lincoln M.");
-        System.out.println("Segundo Cambio de Ivan O.");
+        System.out.println("Segundo Cambio de Ivan O.");     
+        System.out.println("segundo cambio de lincoln");
     }
 }
